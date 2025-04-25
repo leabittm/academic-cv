@@ -10,9 +10,6 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Enseignement
     url: '#teaching'
     weight: 40
