@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: emerald
+  theme_night: emerald
   font: minimal
   font_size: L
   color: emerald
