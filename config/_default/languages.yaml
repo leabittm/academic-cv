@@ -1,23 +1,22 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-fr:
-  languageCode: fr-FR
+en:
+  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/fr
-  title: Homepage of Léa Bittmann
+  #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#en:
-#  languageCode: en-US
-#  contentDir: content/en
-#  title: Homepage of Lea Bittmann
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
 #  params:
-  #  description: Site description in Chinese...
-  #menu:
-    #main:
-      #- name: 传
-        #url: '#about'
-        #weight: 1
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
