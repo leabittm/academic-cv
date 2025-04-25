@@ -10,7 +10,7 @@ baseURL: 'http://www.normalesup.org/~lbittmann/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
