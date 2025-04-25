@@ -60,6 +60,51 @@ sections:
       view: compact
 #      # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: accomplishments
+    id: other_activities
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: Autres activités
+#      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_start: '2024-09-01'
+          date_end: ''
+          description: ''
+          organization: Université de Strasbourg
+          title: Organisatrice du [**Séminaire ART**](https://irma.math.unistra.fr/seminaires/seminaire-art.html)
+#          url: ''
+        - date_end: '2023-01-06'
+          date_start: '2021-09-01'
+          description: ''
+          organization: University of Edinburgh
+          title: Organisatrice du [**Hodge Seminar**](https://sites.google.com/view/hodge-seminars/), puis du [**Algebra Seminar**](https://sites.google.com/view/hodge-seminars/)
+#          url: ''
+        - date_end: '2023-01-06'
+          date_start: '2021-09-01'
+          description: ''
+          organization: University of Edinburgh
+          title: Réprésentante des postdocs auprès du [*Equality, Diversity and Inclusion* committee](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion)
+#          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
+        - date_end: '2019-08-31'
+          date_start: '2017-09-01'
+          description: ''
+          organization: Université Paris Diderot
+          title: Organisatrice des *Rencontres Master-Doctorants*
+          description : Rencontres biannuelles entre etudiants de master et doctorants
+#          url: 'https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion'
+        - date_end: '2019-08-31'
+          date_start: '2017-09-01'
+          description: ''
+          organization: Université Paris Diderot
+          title: Membre du [*Comité Parité*](https://www.imj-prg.fr/comite-parite/)
+#          url: 'https://www.imj-prg.fr/comite-parite/'
   - block: contact
     id: contact
     content:
