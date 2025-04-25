@@ -10,11 +10,11 @@ fr:
   title: Homepage of Léa Bittmann
 
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en-US
-  contentDir: content/en
-  title: Homepage of Lea Bittmann
-  params:
+#en:
+#  languageCode: en-US
+#  contentDir: content/en
+#  title: Homepage of Lea Bittmann
+#  params:
   #  description: Site description in Chinese...
   #menu:
     #main:
