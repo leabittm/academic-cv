@@ -105,6 +105,8 @@ sections:
           organization: Université Paris Diderot
           title: Membre du [*Comité Parité*](https://www.imj-prg.fr/comite-parite/)
 #          url: 'https://www.imj-prg.fr/comite-parite/'
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
